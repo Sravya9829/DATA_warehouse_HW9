@@ -55,5 +55,5 @@ def process_reviews_csv(input_file, output_file):
     # Save to JSONL format
     df_result.to_json(output_file, orient='records', lines=True)
 
-# Example usage
+
 process_reviews_csv("Reviews.csv", "output_reviews.jsonl")
