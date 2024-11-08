@@ -10,6 +10,9 @@ Vespa Deployment Setup: Configured services.xml for document processing and embe
 Search Implementation:
 
 Keyword Search: Uses BM25 for keyword relevance.
+
 Semantic Search: Embedding-based search for similarity.
+
 Recommendation Search: Finds similar items based on document embeddings.
+
 Testing: Verified output across all search types for relevance and accuracy.
