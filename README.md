@@ -1,5 +1,4 @@
-Vespa Search Assignment
-This project implements a Vespa-based search system with keyword, semantic, and recommendation search capabilities.
+Vespa Search Asignment
 
 Steps
 Dataset Preparation: Processed and formatted the data to include doc_id, title, and text, and saved as JSONL for Vespa ingestion.
